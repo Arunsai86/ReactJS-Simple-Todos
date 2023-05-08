@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+}
+.bg-container {
+  background-color: #ffc2a0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 60%;
+  border-radius: 10px;
+  padding: 20px;
+}
+.title {
+  color: #ff8542;
+  font-family: 'Roboto';
+  text-align: center;
+}
